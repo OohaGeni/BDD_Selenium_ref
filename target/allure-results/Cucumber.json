@@ -1,0 +1,322 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "User opens the chrome page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 384612000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open the Chrome page and run the application",
+            "match": {
+              "location": "SampleSteps.open_the_Chrome_page_and_run_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 233900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User can view the Chrome search screen",
+            "match": {
+              "location": "SampleSteps.user_can_view_the_Chrome_search_screen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 278800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User should enter link for login",
+            "match": {
+              "location": "SampleSteps.user_should_enter_the_link_for_login_()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "name": "User Register to application India",
+        "description": "",
+        "id": "test-background-feature;user-register-to-application-india",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11534080200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Open Chrome and start the application_India",
+            "match": {
+              "location": "SampleSteps.open_Chrome_and_run_application_India()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2505863300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User navigates to register Page for India",
+            "match": {
+              "location": "SampleSteps.user_navigates_to_register_page_for_India()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3920031600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User enters all the required details",
+            "match": {
+              "location": "SampleSteps.user_enters_all_the_required_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 290535800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User should be able to Register successfully",
+            "match": {
+              "location": "SampleSteps.user_shoul_be_able_to_register_successfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "User opens the chrome page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 265900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open the Chrome page and run the application",
+            "match": {
+              "location": "SampleSteps.open_the_Chrome_page_and_run_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 169800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User can view the Chrome search screen",
+            "match": {
+              "location": "SampleSteps.user_can_view_the_Chrome_search_screen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 138900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User should enter link for login",
+            "match": {
+              "location": "SampleSteps.user_should_enter_the_link_for_login_()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "User Register to application Aus",
+        "description": "",
+        "id": "test-background-feature;user-register-to-application-aus",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8774717800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Open the chrome and start the application_Aus",
+            "match": {
+              "location": "SampleSteps.open_the_chrome_and_launch_the_application_Aus()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 621745000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User navigates to Register Page for Aus",
+            "match": {
+              "location": "SampleSteps.user_navigates_to_register_page_for_Aus()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 14770117400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User enters the details",
+            "match": {
+              "location": "SampleSteps.user_enters_the_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 132200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User registration successful",
+            "match": {
+              "location": "SampleSteps.user_registration_sucessful()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "User opens the chrome page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 208800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open the Chrome page and run the application",
+            "match": {
+              "location": "SampleSteps.open_the_Chrome_page_and_run_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 118500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User can view the Chrome search screen",
+            "match": {
+              "location": "SampleSteps.user_can_view_the_Chrome_search_screen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 126000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User should enter link for login",
+            "match": {
+              "location": "SampleSteps.user_should_enter_the_link_for_login_()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "User Register to application France",
+        "description": "",
+        "id": "test-background-feature;user-register-to-application-france",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12736315900,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Open the chrome and start the application_France",
+            "match": {
+              "location": "SampleSteps.open_the_chrome_and_launch_the_application_France()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6351539000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User navigates to Register Page for France",
+            "match": {
+              "location": "SampleSteps.user_navigates_to_register_page_for_France()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9830470600,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User enters valid details",
+            "match": {
+              "location": "SampleSteps.user_enter_valid_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 239200,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User successfully Registered",
+            "match": {
+              "location": "SampleSteps.user_successfully_registered()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Background Feature",
+    "description": "Description: The purpose of this feature is to test the Background keyword",
+    "id": "test-background-feature",
+    "keyword": "Feature",
+    "uri": "FF1/Sample2.feature",
+    "tags": []
+  }
+]
